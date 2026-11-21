@@ -1,0 +1,6 @@
+{
+  "name": "FolioPress Letterhead Studio",
+  "description": "Create clean, print-ready business letterheads with shop details, proprietor name, contact number, address, and an automatically matched company logo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
